@@ -1,5 +1,4 @@
 ### Leaders
-
 * [Petteri Ahola](mailto:petteri.ahola@owasp.org)
 * [Pyry Heikkilä](mailto:pyry.heikkinen@owasp.org)
 * [Petri Koistinen](mailto:petri.koistinen@iki.fi)
