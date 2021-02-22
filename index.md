@@ -7,7 +7,7 @@ level: 0
 
 region: Europe
 
-auto-migrated: 1
+auto-migrated: 0
 
 ---
 
