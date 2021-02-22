@@ -1,6 +1,5 @@
-<!--### Chapter Information
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/OWASP-Helsinki-Chapter/)
+* [Social Link](#)
