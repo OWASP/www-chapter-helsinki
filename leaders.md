@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Petteri Arola](mailto:petteri.arola@owasp.org)
+* [Pekka Sillanpää](mailto:pekka.sillanpaa@owasp.org)
