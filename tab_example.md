@@ -1,9 +1,9 @@
 ---
-title: Example
+title: Past events
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: pastevents
 ---
 
 ## Example
