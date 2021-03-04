@@ -11,9 +11,9 @@ region: Europe
 
 ## OWASP Helsinki
 
-Welcome`` ``to`` ``the`` ``OWASP`` ``Helsinki`` ``Chapter
+Welcome to the OWASP Helsinki Chapter
 
-The plan is to meet at least three to four times a year, each lasting 1,5-3 hours (more active "hands" means more meetings). This chapter is based in the capital area and therefore the meetings will be in or around Helsinki.
+The plan is to meet at least three to four times a year, each lasting 1,5-3 hours (more active "hands" means more meetings). This chapter is based in the capital area and therefore the meetings will be in or around Helsinki. During COVID-19 Pandemic the events will be virtual.
 
 If you wish to present at one of the meetings or have any other inquiries, please contact the chapter leaders and shortly describe the talk. (the contact details can be found in the bottom of the page). We encourage everyone to suggest ideas for presentation topics. The talks can be either a full talk (45-60min) or a lightning talk (~15min).
 
@@ -36,4 +36,3 @@ This separate file is where you should place links to your Google Group and Meet
 
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
--->
