@@ -7,32 +7,16 @@ level: 0
 
 region: Europe
 
-auto-migrated: 1
-
 ---
 
-Hello world from OWASP Helsinki!
+## OWASP Helsinki
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Welcome`` ``to`` ``the`` ``OWASP`` ``Helsinki`` ``Chapter
 
-{front matter for this file}
+The plan is to meet at least three to four times a year, each lasting 1,5-3 hours (more active "hands" means more meetings). This chapter is based in the capital area and therefore the meetings will be in or around Helsinki.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+If you wish to present at one of the meetings or have any other inquiries, please contact the chapter leaders and shortly describe the talk. (the contact details can be found in the bottom of the page). We encourage everyone to suggest ideas for presentation topics. The talks can be either a full talk (45-60min) or a lightning talk (~15min).
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-
-## Welcome
-This OWASP Helsinki, Finland Chapter homepage.
-
-```
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
@@ -44,7 +28,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
 
-```
 {info.md}
 
 This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
