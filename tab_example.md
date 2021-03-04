@@ -1,5 +1,5 @@
 ---
-title: Past events
+title: Pastevents
 layout:  null
 tab: true
 order: 1
