@@ -8,8 +8,6 @@ region: Europe
 
 ---
 
-## OWASP Helsinki
-
 Welcome to the OWASP Helsinki Chapter
 
 The plan is to meet at least three to four times a year, each lasting 1,5-3 hours (more active "hands" means more meetings). This chapter is based in the capital area and therefore the meetings will be in or around Helsinki. During COVID-19 Pandemic the events will be virtual.
