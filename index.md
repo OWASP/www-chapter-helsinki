@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Helsinki
-tags: example-tag
+tags: helsinki
 level: 0
 region: Europe
 
