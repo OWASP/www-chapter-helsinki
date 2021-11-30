@@ -41,7 +41,7 @@ Part 3. Intro to the Automation Framework
 
 20:00 QA and final words
 
-# OWASP Helsinki chapter meeting \#40: Nov 30th 2021
+## OWASP Helsinki chapter meeting \#40: Nov 30th 2021
 
 **Time: 17:30-21:00**
 
