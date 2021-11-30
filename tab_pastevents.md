@@ -11,6 +11,8 @@ tags: helsinki
 
 ## Past Events
 
+You may find more information about our past events at Meetup: https://www.meetup.com/OWASP-Helsinki-Chapter/events/past/
+
 #### Chapter Meetings
 
 ## OWASP Helsinki chapter meeting \#42: Nov 30th 2021
