@@ -25,7 +25,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Local News
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
-- {% include chapter_events.html group=page.meetup-group %}
+
+{% include chapter_events.html group=page.meetup-group %}
 
 
 
