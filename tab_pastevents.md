@@ -23,7 +23,7 @@ tags: helsinki
 
 18:20 Threat Modeling in 2021 - Adam Shostack, President, Shostack + Associates
 
-## OWASP Helsinki chapter meeting \#41: Nov 30th 2021
+## OWASP Helsinki chapter meeting \#41: May 11th 2021
 
 **Time: 18:00-20:30**
 
@@ -41,28 +41,19 @@ Part 3. Intro to the Automation Framework
 
 20:00 QA and final words
 
-## OWASP Helsinki chapter meeting \#40: Nov 30th 2021
+## OWASP Helsinki chapter meeting \#40: March 16th 2021
 
-**Time: 17:30-21:00**
+**Time: 18:00-20:30**
 
 **Agenda**
 
-17:30 Welcome coffee
+18:00 Opening words and news from OWASP, Pekka Sillanpää, Chapter leader, OWASP Helsinki chapter
 
-18:00 Opening words, Chapter leader - OWASP Helsinki
+18:15 Introduction to Juice Shop, Björn Kimminich, Chapter leader, OWASP German chapter
 
-18:05 Words from the sponsor, Juho Ranta, CTO, Second Nature Security (2NS)
+19:15 Trust considered harmful: Breaking dangerous trust relationships in modern web applications, Teo Selenius, Senior Security Specialist, Nixu Oyj
 
-18:15 OWASP SAMM2 - your dynamic software security journey, Sebastien Deleersnyder, OWASP SAMM project leader, Managing partner 
-Application Security, Toreon
-
-19:15 Break
-
-19:30 Scaling up threat modeling, Mikko Saario, Security Architect, KONE Corporation
-
-20:15 Trusted Computing - beyond the TPM, Ian Oliver, Senior Security Researcher, Nokia Bell Labs
-
-21:00-> Discussions continue with Snacks, Refreshments and Sauna sponsored by 2NS.
+20:00 Questions and answers
 
 ## OWASP Helsinki chapter meeting \#39: Oct 22nd 2019
 
