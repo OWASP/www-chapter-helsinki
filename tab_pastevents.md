@@ -20,6 +20,7 @@ tags: helsinki
 **Agenda**
 
 18:00 Opening words and news from OWASP - Pekka Sillanpää, Chapter leader, OWASP Helsinki chapter
+
 18:20 Threat Modeling in 2021 - Adam Shostack, President, Shostack + Associates
 
 ## OWASP Helsinki chapter meeting \#41: Nov 30th 2021
@@ -29,10 +30,15 @@ tags: helsinki
 **Agenda**
 
 18:00 Opening words and news from OWASP, Pekka Sillanpää, Chapter leader, OWASP Helsinki chapter
+
 18:05 A three part talk/demo about Zed Attack Proxy, Simon Bennett, ZAP Project leader
+
 Part 1. Intro to ZAP for people who dont know it
+
 Part 2. How to handle modern web apps
+
 Part 3. Intro to the Automation Framework
+
 20:00 QA and final words
 
 # OWASP Helsinki chapter meeting \#40: Nov 30th 2021
@@ -42,14 +48,21 @@ Part 3. Intro to the Automation Framework
 **Agenda**
 
 17:30 Welcome coffee
-18:00 Opening words, Chapter leader - OWASP Helsinki
-18:05 Words from the sponsor, Juho Ranta, CTO, Second Nature Security (2NS)
-18:15 OWASP SAMM2 - your dynamic software security journey, Sebastien Deleersnyder, OWASP SAMM project leader, Managing partner Application Security, Toreon
-19:15 Break
-19:30 Scaling up threat modeling, Mikko Saario, Security Architect, KONE Corporation
-20:15 Trusted Computing - beyond the TPM, Ian Oliver, Senior Security Researcher, Nokia Bell Labs
-21:00-> Discussions continue with Snacks, Refreshments and Sauna sponsored by 2NS.
 
+18:00 Opening words, Chapter leader - OWASP Helsinki
+
+18:05 Words from the sponsor, Juho Ranta, CTO, Second Nature Security (2NS)
+
+18:15 OWASP SAMM2 - your dynamic software security journey, Sebastien Deleersnyder, OWASP SAMM project leader, Managing partner 
+Application Security, Toreon
+
+19:15 Break
+
+19:30 Scaling up threat modeling, Mikko Saario, Security Architect, KONE Corporation
+
+20:15 Trusted Computing - beyond the TPM, Ian Oliver, Senior Security Researcher, Nokia Bell Labs
+
+21:00-> Discussions continue with Snacks, Refreshments and Sauna sponsored by 2NS.
 
 ## OWASP Helsinki chapter meeting \#39: Oct 22nd 2019
 
