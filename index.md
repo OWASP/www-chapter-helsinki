@@ -5,6 +5,7 @@ title: OWASP Helsinki
 tags: helsinki
 level: 0
 region: Europe
+country: Finland
 meetup-group: OWASP-Helsinki-Chapter
 
 ---
@@ -16,7 +17,7 @@ The plan is to meet at least three to four times a year, each lasting 1,5-3 hour
 If you wish to present at one of the meetings or have any other inquiries, please contact the chapter leaders and shortly describe the talk. (the contact details can be found in the bottom of the page). We encourage everyone to suggest ideas for presentation topics. The talks can be either a full talk (45-60min) or a lightning talk (~15min).
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at an OWASP chapter simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
