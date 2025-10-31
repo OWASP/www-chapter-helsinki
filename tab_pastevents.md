@@ -15,6 +15,38 @@ You may find more information about our past events at Meetup: https://www.meetu
 
 #### Chapter Meetings
 
+## OWASP Helsinki chapter meeting \#45: Sep 25th 2025
+
+Joint event with HelSec: https://helsec.fi/events/2025-09-25_helsec_september_meetup/
+
+## OWASP Helsinki chapter meeting \#44: Mar 8th 2022
+
+**Location**
+
+Second Nature Security (2NS), Auditorium, Keilaranta 1, Espoo
+
+**Agenda**
+
+17:30 ONSITE: Welcome coffee, snack & refreshments
+
+18:00 Hybrid event starts: Opening words from OWASP Helsinki Chapter leader
+
+18:05 Words from the sponsor, Juho Ranta, CTO - Second Nature Security (2NS)
+
+18:15 Use the OWASP Threat Modeling Playbook to Improve Your Product Security, Sebastien Deleersnyder, co-founder, CTO of Toreon
+
+19:30-23:00 ONSITE only: Discussions continue with snacks/BBQ, refreshments and sauna sponsored by Second Nature Security (2NS) Oy.
+
+
+## OWASP Helsinki chapter meeting \#43: Feb 1st 2022
+
+**Agenda**
+
+18:00-18:15 Opening words and news from OWASP - Pekka Sillanpää, Chapter leader, OWASP Helsinki chapter
+
+18:15-19:00 The OWASP Top Ten 2021 Release - Jim Manico, CEO and Application Security Educator at Manicode Security
+
+
 ## OWASP Helsinki chapter meeting \#42: Nov 30th 2021
 
 **Time: 18:00 - 19:20**
