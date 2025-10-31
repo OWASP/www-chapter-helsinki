@@ -17,7 +17,7 @@ You may find more information about our past events at Meetup: https://www.meetu
 
 ## OWASP Helsinki chapter meeting \#45: Sep 25th 2025
 
-Joint event with HelSec: https://helsec.fi/events/2025-09-25_helsec_september_meetup/
+Joint event with HelSec, agenda [here](https://helsec.fi/events/2025-09-25_helsec_september_meetup/)
 
 ## OWASP Helsinki chapter meeting \#44: Mar 8th 2022
 
