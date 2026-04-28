@@ -1,0 +1,37 @@
+community:
+  - name: chapter-helsinki
+    platform: slack
+    url: https://owasp.slack.com/archives/C6ZCPH4TG
+    description: Local chat for socializing and info about events
+leaders:
+  - name: Pekka Sillanpää
+    email: pekka.sillanpaa@owasp.org
+    github: psillanp
+  - name: Petteri Arola
+    email: petteri.arola@owasp.org
+  - name: Timo Meriläinen
+    email: timo@owasp.org
+  - name: Lasse Korvala
+    email: lasse.korvala@owasp.org
+    github: korvalas
+  - name: Petri Koistinen
+    email: petri.koistinen@owasp.org
+    github: pkoistin
+location:
+  country: Finland
+  country_code: FI
+  region: Uusimaa
+  city: Helsinki
+  latitude: 60.1674881
+  longitude: 24.9427473
+meetup_group: OWASP-Helsinki-Chapter
+name: OWASP Helsinki
+repositories:
+  - name: www-chapter-helsinki
+    url: https://github.com/OWASP/www-chapter-helsinki
+    description: OWASP Foundation Web Repository
+tags:
+  - helsinki
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-helsinki
