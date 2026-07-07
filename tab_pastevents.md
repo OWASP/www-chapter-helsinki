@@ -11,9 +11,37 @@ tags: helsinki
 
 ## Past Events
 
-You may find more information about our past events at Meetup: https://www.meetup.com/OWASP-Helsinki-Chapter/events/past/
-
 #### Chapter Meetings
+
+## OWASP Helsinki chapter meeting \#47: Apr 29th 2026
+
+**Time: 17:30 - 21:00**
+
+**Location**
+
+Maria 01, Building 3, Lars Sonck Venue (Lapinlahdenkatu 16, Helsinki)
+
+**Agenda**
+
+AI Security Night
+
+18:00 Opening Words: OWASP Helsinki Chapter (Pekka Sillanpää)
+
+18:05 Words from the Sponsors: Verda Cloud & Silverskin Information Security
+
+18:10 From Digital Chaos to Controlled Mayhem: Securing AI in Real Life - Antti Laatikainen, Principal Consultant, Reversec Consulting
+
+19:00 Natural Language, Unnatural Access: The Emerging LLM Attack Pattern - Johann du Toit, AI & Cloud Adoption Expert, OP Financial Group
+
+19:50 Applied OWASP Top 10 for Agentic Applications - Stefano Amorelli, OWASP Top 10 ASI Entry Lead; St. Staff SW Engineer, Qonto
+
+More detailed agenda and event info [here](https://luma.com/rvcnv27j).
+
+
+## OWASP Helsinki chapter meeting \#46: Feb 22nd 2026
+
+Joint event with W4CFI, agenda [here](https://www.meetup.com/women4cyber-finland/events/313093981/)
+
 
 ## OWASP Helsinki chapter meeting \#45: Sep 25th 2025
 
