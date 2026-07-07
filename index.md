@@ -33,9 +33,9 @@ Below are our current ongoing partnerships and sponsors:
 
 ### InfoSecMap
 
-[![InfoSecMap logo](/assets/images/InfoSecMap-logo.png)](https://infosecmap.com/){: width="250px" target="_blank"}
+[![InfoSecMap logo](/assets/images/InfoSecMap-logo.png)](https://infosecmap.com/){: style="display: inline-block; width: 250px;"}
 
-[InfoSecMap](https://infosecmap.com/) is your global go-to platform to explore the cybersecurity ecosystem. Discover conferences, CTFs, meetups, podcasts, and more, plus opportunities like call for papers, sponsors, and volunteers. Always community-first and free to use.
+[InfoSecMap](https://infosecmap.com/){:target="_blank"} is your global go-to platform to explore the cybersecurity ecosystem. Discover conferences, CTFs, meetups, podcasts, and more, plus opportunities like call for papers, sponsors, and volunteers. Always community-first and free to use.
 
 
 {% include chapter_events.html group=page.meetup-group %}
