@@ -26,6 +26,18 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Local News
 For the latest news, follow our social media accounts ([LinkedIn](https://www.linkedin.com/company/owasp-helsinki-chapter) / [X (Twitter)](https://x.com/OWASPHelsinki)).
 
+## Community sponsors
+We are continuously looking for sponsors to help keep the OWASP Helsinki chapter ongoing. If your organization is interested in supporting us (by hosting an event, providing catering, or sponsoring a venue), please contact the chapter leaders.
+
+Below are our current ongoing partnerships and sponsors:
+
+### InfoSecMap
+
+![](/assets/images/InfoSecMap-logo.png)
+
+[InfoSecMap](https://infosecmap.com/) is your global go-to platform to explore the cybersecurity ecosystem. Discover conferences, CTFs, meetups, podcasts, and more, plus opportunities like call for papers, sponsors, and volunteers. Always community-first and free to use.
+
+
 {% include chapter_events.html group=page.meetup-group %}
 
 
